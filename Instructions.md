@@ -1,4 +1,3 @@
-# Lego-Geometric-Design-1
 # Lego Geometric Design 1
 
 
