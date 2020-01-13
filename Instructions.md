@@ -1,6 +1,6 @@
-:# Lego Geometric Design 1:
+# Lego Geometric Design 1
 
-:![Picture](https://github.com/JackieParker99/Lego-Geometric-Design-1/blob/master/Image1.jpg):
+![Picture](https://github.com/JackieParker99/Lego-Geometric-Design-1/blob/master/Image1.jpg)
 
 ###
 * 11 total pieces  
