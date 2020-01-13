@@ -3,9 +3,9 @@
 ![Picture](https://github.com/JackieParker99/Lego-Geometric-Design-1/blob/master/Image1.jpg)
 
 
-###  * 11 total pieces  
-###  * 1 – 6x16 baseplate (bright green) 
-###  * 10 – 2x4 bricks (2 pink, 2 yellow, 2 purple, two light green, two red) 
+###  11 total pieces  
+###  1 – 6x16 baseplate (bright green) 
+###  10 – 2x4 bricks (2 pink, 2 yellow, 2 purple, two light green, two red) 
  
 Holding the base plate with the 6 side being the top; beginning at the top of the plate, place the first pink brick lengthwise on the green baseplate with one connection of the base plate not covered on the top and two sides of the brick. 
 
