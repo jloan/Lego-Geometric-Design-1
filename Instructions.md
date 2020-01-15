@@ -9,6 +9,8 @@
  
 Holding the base plate with the 6 side being the top; beginning at the top of the plate, place the first pink brick lengthwise on the green baseplate with one connection of the base plate not covered on the top and two sides of the brick. 
 
+![Bear Wrestling](https://bloximages.chicago2.vip.townnews.com/enewscourier.com/content/tncms/assets/v3/editorial/5/83/583d9194-e94b-11e5-8827-3761e9594658/56e5b4e6c425c.image.jpg?resize=1200%2C1265)
+
 Place the second pink brick below the first with the 2 side of brick centered on the 4 side of the first brick. 
 
 Place the two yellow bricks centered on each 4 side of the second pink brick (they will overhang the baseplate by two connections on each side) 
